@@ -1,4 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+Feature B functionality.txt
+>>>>>>> Stashed changes
+=======
+Feature A functionality.txt
 Feature B functionality.txt
 >>>>>>> Stashed changes
