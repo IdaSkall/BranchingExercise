@@ -1,1 +1,2 @@
 Feature A functionality.txt
+Feature B functionality.txt
